@@ -18,4 +18,4 @@ openai: We will need to create an account and create a token
 
 Libraries used: python-telegram-bot, openai
 
-programming language: Python
+Programming language: Python
